@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cboling.apiscanner.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cboling.apiscanner.MyBundle
 
 class MyApplicationService {
 
